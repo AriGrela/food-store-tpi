@@ -42,6 +42,11 @@ export function Navbar() {
             Mis pedidos
           </NavLink>
         )}
+        {usuario?.role === 'admin' && (
+          <NavLink to="/admin" className={claseLink}>
+            Panel admin
+          </NavLink>
+        )}
 
         <div className="ml-auto flex items-center gap-3">
           {usuario ? (
