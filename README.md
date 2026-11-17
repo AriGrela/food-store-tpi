@@ -5,7 +5,7 @@ Trabajo Práctico Integrador de **Programación IV** — Tecnicatura Universitar
 **Alumno:** Ariel Grela
 
 - 🔗 **Repositorio:** https://github.com/AriGrela/food-store-tpi
-- 🎥 **Video de demostración:** 
+- 🎥 **Video de demostración:** https://youtu.be/M8wBYs7fJac
 
 Aplicación web completa para un negocio de comidas: los clientes se registran, recorren el catálogo, arman un carrito y confirman pedidos; el administrador gestiona categorías, productos, stock, pedidos y usuarios desde un panel.
 
